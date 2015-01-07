@@ -39,7 +39,7 @@
 </MSGPGBEGIN>
 
 <MSGPGEND>
-   <!-- FIXME <address>Archive administrator: postmaster@mlmmj-webarchiver</address> -->
+   <!-- FIXME <address>Archive administrator: admin@cobug.org</address> -->
   </div>
  </div>
 </body>
@@ -207,7 +207,7 @@
 <TFOOT>
 </ul> 
 </div>
-   <address>Archive administrator: postmaster.cynapses.org</address>
+   <address>Archive administrator: admin@cobug.org</address>
   </div>
  </div>
 </TFOOT>
