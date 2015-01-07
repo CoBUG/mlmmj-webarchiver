@@ -8,7 +8,8 @@
 # License: GPLv3 or later
 #
 
-MHONARC=/usr/bin/mhonarc
+#MHONARC=/usr/bin/mhonarc
+MHONARC=$(which mhonarc)
 
 # config for mlmmj-webarchiver
 # (can be overwritten with $1)
